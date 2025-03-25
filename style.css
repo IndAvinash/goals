@@ -9,7 +9,7 @@
     align-items: center;
     padding-top: 50px;
     background-color: #e1e3ea;
-    height: 80vh;
+    min-height: 100vh;
     /* visibility: collapse; */
     font-family: sans-serif;
 }
